@@ -1,0 +1,40 @@
+_repo: Silas-Marner_24823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Cross, Marian Evans
+    - Evans, Mary Anne
+    - Lewes, M. E. (Marian Evans)
+    - Cross, Mary Ann
+    - Lewes, Marian Evans
+    - Evans, Marian
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: ''
+gutenberg_issued: '2008-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24823'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Weavers -- Fiction'
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'Adopted children -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+title: Silas Marner
+url: http://www.gutenberg.org/ebooks/24823
